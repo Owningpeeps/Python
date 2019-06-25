@@ -1,0 +1,6 @@
+n=5
+result=[]
+
+for x in range(n):
+    result.append(n-x)
+print(result)
